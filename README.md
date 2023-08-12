@@ -42,4 +42,4 @@ java Patients_Records
 
 你可以透過以下方式與我聯絡
 
-- [Instagram](https://www.instagram.com/liyc019/){:target="_blank"}
+- [Instagram](https://www.instagram.com/liyc019/)

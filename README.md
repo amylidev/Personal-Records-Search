@@ -1,18 +1,16 @@
 # Personal-Records-Search
-Simple clinic patient information query java program
-
+> Simple clinic patient information query java program.
 
 此程式為使用Java實作出能讀寫文件之GUI。
 
 ## 功能
 
-模擬資料寫於Patient.txt及Blood.txt，可用此二檔案之資料進行測試。
+模擬資料寫於Patient Information.txt及Blood Records.txt，可用此二檔案之資料進行測試。
 
 - [x] 查詢病人資料
 - [x] 查詢血壓/血糖紀錄
 - [x] 新增病人資料
 - [x] 新增血壓/血糖紀錄
-...
 
 ## 安裝
 
@@ -44,4 +42,4 @@ java Patients_Records
 
 你可以透過以下方式與我聯絡
 
-- [Instagram](https://www.instagram.com/liyc019/)
+- [Instagram](https://www.instagram.com/liyc019/){:target="_blank"}

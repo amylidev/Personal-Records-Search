@@ -352,7 +352,7 @@ public class SearchPanel extends JPanel
 		JTextField number = new JTextField(0);	// 建立一個輸入框，不預設寬度
 		number.setBounds(395, 210, 100, 25); // 指定輸入框的位置
 		
-		JLabel da = new JLabel("請輸入欲查詢之日期？(yyyy/mm/dd)");
+		JLabel da = new JLabel("請輸入欲查詢之日期？(yyyy/m/dd)");
 		da.setBounds(395, 235, 300, 30);
 		
 		JTextField date = new JTextField(0);
